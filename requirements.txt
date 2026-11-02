@@ -1,0 +1,4 @@
+# Build-time only (to produce scan_modmechs.exe).
+# The scanner itself uses the Python standard library only; no third-party
+# packages are required to run scan_modmechs.py under Python 3.
+PyInstaller==6.22.3

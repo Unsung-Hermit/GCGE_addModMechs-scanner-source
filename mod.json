@@ -1,0 +1,14 @@
+{
+  "displayName": "GCGE Add Mod Mechs",
+  "version": "1.0",
+  "buildNumber": 1,
+  "description": "Optional add-on: ModOptions page for mod chassis / hero variants. Requires Glowing Cockpit Glass Expanded. Run Scan_*.bat to fill the list.",
+  "author": "",
+  "authorURL": "",
+  "defaultLoadOrder": 23,
+  "gameVersion": "1.14.390",
+  "manifest": [],
+  "steamPublishedFileId": 0,
+  "steamLastSubmittedBuildNumber": 0,
+  "steamModVisibility": "Private"
+}
